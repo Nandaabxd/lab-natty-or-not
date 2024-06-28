@@ -1,7 +1,7 @@
 
 ### Template
 
-```markdown
+
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
@@ -31,7 +31,7 @@ Textos Criados
 
 ## 💭 Reflexão (Opcional)
 Criar conteúdos realistas com IA é um desafio que envolve tanto a tecnologia quanto a criatividade humana. Foi fascinante ver como as ferramentas de IA podem complementar a visão criativa, permitindo a produção de conteúdos que talvez não fossem possíveis de outra forma. Este projeto mostrou o potencial das IAs generativas em diversos campos, desde a arte até o marketing.
-```
+
 
 ### Exemplos e Insigths
 
